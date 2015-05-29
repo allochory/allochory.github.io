@@ -1,0 +1,16 @@
+---
+title: Ecole Polytechnique
+subtitle: Engineering and Science
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: epoly.jpg
+thumbnail: epoly-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+web: "https://www.polytechnique.edu"
+category: l'X
+description: Formed over 200 years ago, l'X, as it's known in France, is both a military and engineering school.  Students who manage to enter by a concours study under the title of "polytechniciens" and recieve a salary from the government.  The school is world renowned for its math and physics, but the studies are more broad than those of most French universities... plus, they get swords!
+
+---

@@ -1,0 +1,70 @@
+url: https://allochory.github.io
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Allochory
+email: allochory@gmail.com
+description: "Allochory is a non-profit organization supporting Franco-American exchange in all academic pursuits. We hope to build a sustainable organization to provide scholarship funding, guidance, and support for American students wishing to pursue graduate studies in France."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ad899a
+  secondary: 92647a
+  secondary-dark: 77455c
+
+# Team names, titles and social links
+people:
+- name: Tyler Abbot
+  pic: 1
+  position: Co-Founder
+  social:
+    - title: github
+      url: https://github.com/tyler-abbot
+    #- title: facebook
+    #  url: #
+    - title: user
+      url: https://tyler-abbot.github.io
+
+- name: Sarah Kislingbury
+  pic: 2
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Melissa Smith
+  pic: 3
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

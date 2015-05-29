@@ -1,0 +1,15 @@
+---
+title: Sciences Po
+subtitle: Political and Social Sciences
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: sciencespo.jpg
+thumbnail: sciencespo-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+category: Sciences Po
+web: "http://www.sciencespo.fr"
+description: Sciences Po is one of the world's leading institutions for the studies of Political Science, International Affairs, and Social Sciences.  Often considered a training ground for French and European politicians, notable graduates include presidents Francois Hollande, Nicolas Sarkozy, Jacques Chirac, and Francois Mitterand, as well as other public servants such as Jean-Claude Trichet (governor of the Banque de France) and Christine Lagarde (president of the International Monetary Fund).
+
+---

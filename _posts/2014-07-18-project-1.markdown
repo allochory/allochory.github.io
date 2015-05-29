@@ -1,0 +1,16 @@
+---
+title: Universite Pierre-et-Marie-Curie
+subtitle: Math and Sciences
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: upmc.jpg
+thumbnail: upmc-thumbnail.jpg
+alt: image-alt
+web: "http://www.upmc.fr"
+project-date: April 2014
+client: Start Bootstrap
+category: UPMC
+description: One of the many spin-offs of the original Sorbonne, Pierre et Marie Curie is home to schools of sciences, technology, engineering, and medicine.  The school excels in every field, but is especially good in math and science.  Its graduates include fields medal winners and a Nobel laureat in physics.
+
+---

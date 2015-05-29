@@ -1,0 +1,16 @@
+---
+title: Ecole des Hautes Etudes Commerciales
+subtitle: Business
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: hec.jpg
+thumbnail: hec-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: HEC
+web: "http://www.hec.fr"
+description: Famously difficult to enter, HEC graduates some of the most successful business people in Europe.  After two years of intense study, students must pass public examinations, where they compete amongts 5,000 candidates for 380 coveted spots.  Once admitted, they enjoy a wild campus life (one of the few universities in Ile-de-France with a self sufficient campus) and small courses with prestigious professors.  Notable graduates include Jean-Paul Agon (CEO l'Oreal), Pascal Lamy (Director WTO), Baudouin Prot (President BNP Paribas), among others.
+
+---

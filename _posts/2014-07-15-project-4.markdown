@@ -1,0 +1,16 @@
+---
+title: Ecole Normale Superieure
+subtitle: Intellectual curiousity at its finest
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: ens.jpg
+thumbnail: ens-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+web: "http://www.ens.fr"
+client: Start Bootstrap
+category: ENS
+description: Considered the most prestigious of French academic institutions, the Ecoles Normales Superieures, or Normales Sups, have won numerous prizes in math and science, as well as been home to writers and philosophers.  The French Cinematheque was founded in the main building of the Paris campus and 13 of its graduates have won the Nobel prize in physics, chemistry, literature, and economics.
+
+---
