@@ -8,9 +8,8 @@ img: sorbonne.jpg
 thumbnail: sorbonne-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-web: "http://www.paris-sorbonne.fr"
-client: Start Bootstrap
 category: La Sorbonne
+web: "http://www.paris-sorbonne.fr"
 description: The most famous university in France, la Sorbonne is actually simply a building, housing several different universities, including Paris 1, Paris 3, Paris, 4, and Paris 5.  Reforms following the May, '68 riots split the building and disbanded the previous Universite de Paris, which finds its roots as far back as the 12th century.  Truly one of the most emblematic scholarly sites in the world, while walking to class one can't help but imagine the great thinkers who throughout history wandered the streets of the Latin quarter.
 
 ---
