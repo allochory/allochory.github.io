@@ -1,5 +1,5 @@
 ---
-title: Hautes Etudes Commerciales
+title: HEC
 subtitle: Business
 layout: default
 modal-id: 2
