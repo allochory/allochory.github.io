@@ -1,5 +1,5 @@
 ---
-title: Universite Pierre-et-Marie-Curie
+title: Pierre-et-Marie-Curie
 subtitle: Math and Sciences
 layout: default
 modal-id: 1
