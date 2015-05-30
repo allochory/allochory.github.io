@@ -1,5 +1,5 @@
 ---
-title: Ecole des Hautes Etudes Commerciales
+title: Ecole des Hautes Etudes
 subtitle: Business
 layout: default
 modal-id: 2
