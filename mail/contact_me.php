@@ -38,7 +38,7 @@ $params = array(
     Email: $email\n
     Subject: $subject\n
     $message",
-    'from'      => "contact@allochory.org",
+    'from'      => "allochory@gmail.com",
 );
 $request = 'https://api.sendgrid.com/api/mail.send.json'
 // Generate curl request
@@ -54,6 +54,5 @@ curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
 // obtain response
 $response = curl_exec($session);
 curl_close($session);
-print_r($response);
 return true;
 ?>
