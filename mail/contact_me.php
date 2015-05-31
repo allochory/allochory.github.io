@@ -54,5 +54,6 @@ curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
 // obtain response
 $response = curl_exec($session);
 curl_close($session);
+print_r($response);
 return true;
 ?>
