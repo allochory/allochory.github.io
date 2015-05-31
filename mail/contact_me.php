@@ -17,10 +17,10 @@ $message = $_POST['message'];
 
 // Create the email and send the message
 $to = 'allochory@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
-$email_subject = 'Website Contact Form:  $name';
-$email_body = 'You have received a new message from your website contact form.\r\n\r\n Here are the details:\r\n\r\nName: $name\r\n\r\nEmail: $email_address\r\n\r\nPhone: $phone\r\n\r\nMessage:\r\n$message';
-$headers = 'From: contact@allochory.org\r\n'; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
-$headers .= 'Reply-To: $email_address';
+$email_subject = "Website Contact Form:  $name";
+$email_body = "You have received a new message from your website contact form.\n\n Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
+$headers = "From: contact@allochory.org\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
+$headers .= "Reply-To: $email_address";
 // mail($to,$email_subject,$email_body,$headers);
 // Use sendgrid to send the email
 
@@ -32,8 +32,8 @@ $params = array(
     'api_key'   => "$pass",
     'to'        => "$to",
     'subject'   => "$email_subject",
-    'html'      => "$message",
-    'text'      => "$message",
+    'html'      => "<html>$email_body</html>",
+    'text'      => "$email_body",
     'from'      => "allochory@gmail.com",
 );
 $request = $url.'api/mail.send.json'
