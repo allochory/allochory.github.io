@@ -32,7 +32,7 @@ $params = array(
     'api_key'   => "$pass",
     'to'        => "$to",
     'subject'   => "$email_subject",
-    'html'      => "<html>$email_body</html>",
+    'html'      => "$email_body",
     'text'      => "$email_body",
     'from'      => "allochory@gmail.com",
 );
