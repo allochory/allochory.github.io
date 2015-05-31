@@ -32,7 +32,7 @@ $params = array(
     Name: $name\n<br>
     Email: $email\n<br>
     Subject: $subject\n<br>
-    Message: $message <body></title></head></html>",
+    Message: $message </body></head></html>",
     'text'      => "
     Name: $name\n
     Email: $email\n
